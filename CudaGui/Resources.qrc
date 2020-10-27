@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>download.gif</file>
+        <file>Aqua.qss</file>
+    </qresource>
+</RCC>
